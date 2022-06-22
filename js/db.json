@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "JAVASCRIPT ",
+      "body": "beginner"
+    },
+    {
+      "id": 2,
+      "title": "PYTHON",
+      "body": "advanced,advancedadvancedadvancedadvancedadvancedadvancedadvancedadvancedadvancedadvancedadvancedadvancedadvancedadvancedadvancedadvancedadvancedadvancedadvancedadvancedadvancedadvancedadvancedadvancedadvancedadvancedadvancedadvancedadvancedadvancedadvancedadvancedadvancedadvancedadvancedadvancedadvancedadvancedadvancedadvancedadvanced"
+    },
+    {
+      "title": "Blog1",
+      "body": "Hello Ales\n",
+      "id": 3
+    }
+  ],
+  "polls": [
+    {
+      "id": 1,
+      "name": "Poll 1"
+    },
+    {
+      "id": 2,
+      "name": "Poll 2"
+    }
+  ]
+}
